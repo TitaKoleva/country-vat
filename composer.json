@@ -1,8 +1,9 @@
 {
     "name": "tita-koleva/country-vat-professional",
-    "description": "country vat module",
+    "description": "This package name was changed for version 2.0.0 and up. Use tita-koleva/country-vat instead.",
     "type": "module",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "abandoned": true,
     "require": {
         "php": ">=7.0"
     }
