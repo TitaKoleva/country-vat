@@ -1,10 +1,12 @@
 {
-    "name": "tita-koleva/country-vat-professional",
-    "description": "This package name was changed for version 2.0.0 and up. Use tita-koleva/country-vat instead.",
+    "name": "tita-koleva/country-vat",
+    "description": "This package name was changed to tita-koleva/country-vat",
     "type": "module",
-    "version": "1.0.1",
-    "abandoned": true,
+    "version": "2.0.0",
+    "replace": {
+        "tita-koleva/country-vat-professional": "*"
+    },
     "require": {
-        "php": ">=7.0"
+        "php": ">=8.0"
     }
 }
