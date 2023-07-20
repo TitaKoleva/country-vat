@@ -3,9 +3,6 @@
     "description": "This package name was changed to tita-koleva/country-vat",
     "type": "module",
     "version": "2.0.0",
-    "replace": {
-        "tita-koleva/country-vat-professional": "*"
-    },
     "require": {
         "php": ">=8.0"
     }
